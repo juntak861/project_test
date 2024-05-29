@@ -1,6 +1,10 @@
 code code
 code file
+<<<<<<< HEAD
 new line
 silseup test1
 
 ffffeat1	
+=======
+new new new code from justfo0ox
+>>>>>>> 27d551aa2cc0a1c66859b3e6b12cf2ef5e7da126
